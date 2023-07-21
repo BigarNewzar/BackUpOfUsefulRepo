@@ -1,0 +1,11 @@
+Chunpeng Ge, Changchun Yin, Zhe Liu, Liming Fang, Juncen Zhu, Huading Ling,
+A privacy preserve big data analysis system for wearable wireless sensor network,
+Computers & Security,
+Volume 96,
+2020,
+101887,
+ISSN 0167-4048,
+https://doi.org/10.1016/j.cose.2020.101887.
+(https://www.sciencedirect.com/science/article/pii/S0167404820301607)
+Abstract: Big data and artificial intelligence develop rapidly. Big data analysis has been applied in many fields of smart healthcare. Once these data are leaked or modified during transmission, it will not only invade the privacy of patients, but also endanger their lives. Many researchers worked on encrypted personal health records (PHR). However, there are still some challenges, such as data leakage during deep learning and leakage of training models, and some users do not want their data to be leaked to the analysis organization. How to protect privacy while leveraging deep learning is a pressing issue. In this paper, we present a system for predicting disease and timely alarms by collecting data from sensors and using deep learning to analyze and monitor patient health data. In order to protect the privacy of health data, we adopt an assured data deletion approach which the data owner can choose to revoke some users’ access to their health data. Extensive analysis and experimental results are presented that demonstrate the security, and efficiency of our proposed approach.
+Keywords: Wearable wireless sensor network; Big data analysis; Privacy preserve; Access control; IoT Security

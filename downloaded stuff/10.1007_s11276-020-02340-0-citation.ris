@@ -1,0 +1,17 @@
+TY  - JOUR
+AU  - Somasundaram, R.
+AU  - Thirugnanam, Mythili
+PY  - 2021
+DA  - 2021/11/01
+TI  - Review of security challenges in healthcare internet of things
+JO  - Wireless Networks
+SP  - 5503
+EP  - 5509
+VL  - 27
+IS  - 8
+AB  - The area of computer science and electronics have merged into one of the most notable technologies called the internet of things (IoT). A wide range of applications offered by IoT, including smart agricultural, smart transportation, smart home, and healthcare. In recent times, the market for IoT in healthcare service has increased exponentially. At the same time, security issues in the system also increase this situation threatening the health and safety of patients. Medical device usage in the hospital like Implantable Medical Devices, Radio Frequency Identification tags, and wearable devices are prone to a severe security vulnerability. This scenario is emphasizing the importance of providing privacy and confidentiality of a patient’s medical information. Therefore, this paper attempts to review security issues present on the Internet of Medical Things (IoMT). Also, this work reviews the solution of various security issues presented in the exiting works. Accordingly, the review revealed that the solution of device-level security issues is desirable. At the same time, moderate level focus only happened in communication level security. In this work, various security issues presented in IoMTs analyzed and different risk factors of security attacks on IoMTs identified. The empirical result shows DDoS in IoMTs dangerous compare with other security issues with 95.00% risk factor and authentication issue in wireless insulin pump 55.00% risk factor. The proposed risk assessment helps to identify the highest impact, causing security attacks in various IoMTs.
+SN  - 1572-8196
+UR  - https://doi.org/10.1007/s11276-020-02340-0
+DO  - 10.1007/s11276-020-02340-0
+ID  - Somasundaram2021
+ER  - 

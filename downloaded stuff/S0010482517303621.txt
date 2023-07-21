@@ -1,0 +1,11 @@
+Michael Schmidt, Roman Obermaisser,
+Adaptive and technology-independent architecture for fault-tolerant distributed AAL solutions,
+Computers in Biology and Medicine,
+Volume 95,
+2018,
+Pages 236-247,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2017.11.002.
+(https://www.sciencedirect.com/science/article/pii/S0010482517303621)
+Abstract: Today's architectures for Ambient Assisted Living (AAL) must cope with a variety of challenges like flawless sensor integration and time synchronization (e.g. for sensor data fusion) while abstracting from the underlying technologies at the same time. Furthermore, an architecture for AAL must be capable to manage distributed application scenarios in order to support elderly people in all situations of their everyday life. This encompasses not just life at home but in particular the mobility of elderly people (e.g. when going for a walk or having sports) as well. Within this paper we will introduce a novel architecture for distributed AAL solutions whose design follows a modern Microservices approach by providing small core services instead of a monolithic application framework. The architecture comprises core services for sensor integration, and service discovery while supporting several communication models (periodic, sporadic, streaming). We extend the state-of-the-art by introducing a fault-tolerance model for our architecture on the basis of a fault-hypothesis describing the fault-containment regions (FCRs) with their respective failure modes and failure rates in order to support safety-critical AAL applications.
+Keywords: Ambient assisted living; IEEE 11073; Time synchronization; Microservices; Service discovery; Living lab; Fault-tolerance; Advanced linux traffic control; Traffic shaping; Traffic policing

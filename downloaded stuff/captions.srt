@@ -1,0 +1,136 @@
+1
+00:00:00,000 --> 00:00:02,533
+Hey everyone! Have you ever felt confused and overwhelmed
+
+2
+00:00:02,533 --> 00:00:09,032
+not being able to find those pesky deleted or modified files on the computer? Well, fear no more cause AEAS is here to help!
+
+3
+00:00:10,771 --> 00:00:12,602
+So, what's AEAS?
+
+4
+00:00:12,602 --> 00:00:15,870
+It's an application that helps e-forensic investigators get their work done!
+
+5
+00:00:16,101 --> 00:00:23,634
+Basically, the e-forensic investigators seize necessary evidence (i.e. the system), acquires the data (i.e. e-forensic image), 
+
+6
+00:00:23,634 --> 00:00:27,911
+analyses it and reports their findings of deleted and modified files with necessary details.
+
+7
+00:00:28,190 --> 00:00:32,780
+And our program will do the final two steps for them, simplifying and speeding up the entire process!
+
+8
+00:00:33,654 --> 00:00:35,685
+Lets take a look at some existing software. 
+
+9
+00:00:40,000 --> 00:00:41,840
+So, what’s the problem with all of these?
+
+10
+00:00:41,840 --> 00:00:44,964
+There are three key issues are common in existing solutions.
+
+11
+00:00:44,964 --> 00:00:50,694
+They have a steep learning curve. You need to already understand the specific software to use it.
+
+12
+00:00:50,867 --> 00:00:56,473
+As shown on the previous slide, a lot of information is displayed all at once, and this can be overwhelming.
+
+13
+00:00:56,831 --> 00:01:04,071
+Some common processes require clicking through countless unnecessary wizards and dialogs, which is inefficient.
+
+14
+00:01:04,880 --> 00:01:07,933
+<font size="10px">Our team has been collaborating with our client, Bad Security Incorporated.</font>
+
+15
+00:01:07,933 --> 00:01:13,317
+<font size="10px">This collaboration allows our team to explore and understand the problem and solution space of the project.</font>
+
+16
+00:01:15,148 --> 00:01:21,586
+We spent a lot of time defining the problem space – drilling down into industry weak points to gleam key areas for improvement.
+
+17
+00:01:21,586 --> 00:01:26,354
+From there, we designed the application by prioritizing the three design principles on the slide.
+
+18
+00:01:26,354 --> 00:01:29,547
+Make it simple, make it smooth, and make it sleek.
+
+19
+00:01:30,000 --> 00:01:31,917
+Let’s see these design principles in action.
+
+20
+00:01:31,917 --> 00:01:39,198
+A simple, sleek user-friendly interface, and the whole process from project start to report generation takes only 8 seconds.
+
+21
+00:01:39,404 --> 00:01:42,937
+And here are some of the things that AEAS will put into the report.
+
+22
+00:01:42,937 --> 00:01:50,814
+The key statistics are hard disk information, a list of detected files, results from a string keyword search,  
+
+23
+00:01:50,814 --> 00:01:54,049
+and a timeline of file modifications performed on the machine.
+
+24
+00:01:54,858 --> 00:02:00,171
+AEAS will leverage tried and tested tools, to ensure the integrity of data analysis.
+
+25
+00:02:00,852 --> 00:02:08,497
+AEAS will be able to identify suspicious files, whether they have been deleted, obfuscated or unallocated.
+
+26
+00:02:10,000 --> 00:02:16,057
+Modern frameworks such as react and electron allow for a clean application that is user friendly and portable.
+
+27
+00:02:17,590 --> 00:02:22,102
+AEAS will produce reports on its findings for expert forensic specialist 
+
+28
+00:02:22,102 --> 00:02:25,976
+to quickly get informed for further investigatory decision making.
+
+29
+00:02:27,506 --> 00:02:32,623
+This will be provided as a software package built on and for open source technologies.
+
+30
+00:02:33,123 --> 00:02:36,136
+What does the future hold for the AEAS team?
+
+31
+00:02:36,136 --> 00:02:42,267
+We will use an agile inspired work process to allow us to adapt our development to the feedback we get as we:
+
+32
+00:02:42,267 --> 00:02:45,715
+Prototype, Polish, Test, and engage end users.
+
+33
+00:02:45,715 --> 00:02:51,199
+The AEAS team is confident that we will be able to deliver a high quality application that streamlines 
+
+34
+00:02:51,199 --> 00:02:57,628
+and kickstarts the forensic process, allowing investigators to focus more on what is important.
+

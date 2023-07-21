@@ -1,0 +1,277 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OrbCollectorModified/1.0.0": {
+        "dependencies": {
+          "Microsoft.Xna.Framework.Avatar": "4.0.0.0",
+          "Microsoft.Xna.Framework.Content.Pipeline.AudioImporters": "4.0.0.0",
+          "Microsoft.Xna.Framework.Content.Pipeline": "4.0.0.0",
+          "Microsoft.Xna.Framework.Content.Pipeline.EffectImporter": "4.0.0.0",
+          "Microsoft.Xna.Framework.Content.Pipeline.FBXImporter": "4.0.0.0",
+          "Microsoft.Xna.Framework.Content.Pipeline.TextureImporter": "4.0.0.0",
+          "Microsoft.Xna.Framework.Content.Pipeline.VideoImporters": "4.0.0.0",
+          "Microsoft.Xna.Framework.Content.Pipeline.XImporter": "4.0.0.0",
+          "Microsoft.Xna.Framework": "4.0.0.0",
+          "Microsoft.Xna.Framework.Game": "4.0.0.0",
+          "Microsoft.Xna.Framework.GamerServices": "4.0.0.0",
+          "Microsoft.Xna.Framework.Graphics": "4.0.0.0",
+          "Microsoft.Xna.Framework.Input.Touch": "4.0.0.0",
+          "Microsoft.Xna.Framework.Net": "4.0.0.0",
+          "Microsoft.Xna.Framework.Storage": "4.0.0.0",
+          "Microsoft.Xna.Framework.Tools.Packaging.Tasks": "4.0.0.0",
+          "Microsoft.Xna.Framework.Video": "4.0.0.0",
+          "Microsoft.Xna.Framework.Xact": "4.0.0.0"
+        },
+        "runtime": {
+          "OrbCollectorModified.dll": {}
+        }
+      },
+      "Microsoft.Xna.Framework.Avatar/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Avatar.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Content.Pipeline.AudioImporters/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Content.Pipeline/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Content.Pipeline.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Content.Pipeline.EffectImporter/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Content.Pipeline.FBXImporter/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Content.Pipeline.TextureImporter/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Content.Pipeline.VideoImporters/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Content.Pipeline.XImporter/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Game/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Game.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.GamerServices/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.GamerServices.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Graphics/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Graphics.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Input.Touch/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Input.Touch.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Net/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Net.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Storage/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Storage.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Tools.Packaging.Tasks/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Tools.Packaging.Tasks.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Video/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Video.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      },
+      "Microsoft.Xna.Framework.Xact/4.0.0.0": {
+        "runtime": {
+          "Microsoft.Xna.Framework.Xact.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.30901.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrbCollectorModified/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Avatar/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Content.Pipeline.AudioImporters/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Content.Pipeline/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Content.Pipeline.EffectImporter/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Content.Pipeline.FBXImporter/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Content.Pipeline.TextureImporter/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Content.Pipeline.VideoImporters/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Content.Pipeline.XImporter/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Game/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.GamerServices/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Graphics/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Input.Touch/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Net/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Storage/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Tools.Packaging.Tasks/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Video/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Xna.Framework.Xact/4.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

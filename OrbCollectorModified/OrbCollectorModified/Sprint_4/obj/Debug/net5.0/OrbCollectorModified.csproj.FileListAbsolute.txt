@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\OrbCollectorModified\OrbCollectorModified\Sprint_4\obj\Debug\net5.0\OrbCollectorModified.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\OrbCollectorModified\OrbCollectorModified\Sprint_4\obj\Debug\net5.0\OrbCollectorModified.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OrbCollectorModified\OrbCollectorModified\Sprint_4\obj\Debug\net5.0\OrbCollectorModified.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OrbCollectorModified\OrbCollectorModified\Sprint_4\obj\Debug\net5.0\OrbCollectorModified.AssemblyInfo.cs
+C:\Users\User\source\repos\OrbCollectorModified\OrbCollectorModified\Sprint_4\obj\Debug\net5.0\OrbCollectorModified.csproj.CoreCompileInputs.cache
